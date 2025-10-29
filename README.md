@@ -51,8 +51,7 @@ kingsukh-guesthouse-redesign/
 ## 🚀 How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/kingsukh-guesthouse-redesign.git
-````
+   git clone https://github.com/charansaiii/KINGSUKH-GUEST-HOUSE.git
 
 2. Open the folder in **VS Code** or any preferred editor.
 3. Run `index.html` in your browser to view the project.
@@ -74,3 +73,4 @@ A verified **Internship Completion Certificate** will be issued by InnoByte Serv
 
 ```
 ```
+
